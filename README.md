@@ -12,7 +12,7 @@
 To Learn TensorFlow image classification with pretrained model
 
 ## Description
-Classify image dataset from kaggle food101 by TensorFlow and pretrained model
+Classify image dataset from kaggle food101 by TensorFlow and transfer learner and Fine-tuning (With pretrained model) methods
 
 ## Installation
 
